@@ -19,8 +19,8 @@ The Iris Project is a graphical Python application designed to calculate the dis
 Abaixo está uma prévia do design da interface:
 
 ![Interface Gráfica](prints/iris1.png)
-![Interface Gráfica](prints/iris1.png)
-![Interface Gráfica](prints/iris1.png)
+![Interface Gráfica](prints/iris2.png)
+![Interface Gráfica](prints/iris3.png)
 
 ## Requirements
 ### Python Dependencies
